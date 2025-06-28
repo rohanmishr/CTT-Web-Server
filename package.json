@@ -1,0 +1,22 @@
+{
+  "name": "ctt-web-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"CTT 2025\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohanmishr/CTT-Web-Server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohanmishr/CTT-Web-Server/issues"
+  },
+  "homepage": "https://github.com/rohanmishr/CTT-Web-Server#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
